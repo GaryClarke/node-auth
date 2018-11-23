@@ -30,4 +30,7 @@ var User = mongoose.model('User', {
     }]
 });
 
-module.exports = {User};
+// /direct_messages/sent
+//direct_messages
+
+    module.exports = {User};
